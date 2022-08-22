@@ -17,7 +17,7 @@
 <h2>Principais Linguagens</h2>
   
 <div style="display: inline_block"><br>
-<img align="center" alt="Bruno-Git" height="30" width="60"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img align="center" alt="Bruno-Git" height="30" width="70"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="Bruno-Vs" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,8 +35,6 @@
 <a href="https://www.linkedin.com/in/bruno-macena89" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/bruno.desalles.50" target="_blank"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/darksalles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
 </div>
 
 <div> 
@@ -44,8 +42,8 @@
 <a href="https://github.com/bruno-macena">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=bruno-macena&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-macena&layout=compact&langs_count=7&theme=highcontrast"/>
-  
-   ![Snake animation](https://github.com/bruno-macena/blob/output/github-contribution-grid-snake.svg)
   </div> 
+  
+  ![Snake animation](https://github.com/bruno-macena/blob/output/github-contribution-grid-snake.svg)
 
   

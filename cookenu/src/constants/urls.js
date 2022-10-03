@@ -1,1 +1,1 @@
-export const BASE_URL = "https://cookenu-api.herokuapp.com"
+export const BASE_URL = "http://cookenu.labenu.com.br"

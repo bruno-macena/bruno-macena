@@ -1,6 +1,8 @@
-Projeto Cookenu, um projeto construído em React, desenvolvido para ser um site de receitas, onde o usuário logado poderá criar novas receitas e ter acesso a lista de receitas catalogadas em sua conta, realizado requisições junto a API.
+Projeto Cookenu, um projeto desenvolvido para ser um site de receitas, onde o usuário logado poderá criar novas receitas e ter acesso a lista de receitas catalogadas em sua conta, realizado requisições junto a API.
 
-Devido a um erro na API, a mesma não permite gerar o link do surge.
+Projeto criado em React, com as bibliotecas (styled-components, material-ui, react-router-dom)
+
+Link do surge : http://abstracted-song.surge.sh/login
 
 Abaixo a lista das imagens do site em funcionamento local e a API do projeto.
 

@@ -8,7 +8,7 @@
   
 - 🖥️ Trabalho como Backoffice
   
-- 📖 Atualmente estou estudando Typescript
+- 📖 Atualmente estou estudando Angular + Java (Full Stack)
   
 - 📝 Pronomes: Ele / Dele
   

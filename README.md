@@ -4,7 +4,7 @@
 
 <div>
   
-- 📓 Estudante do Bootcamp da Labenu no curso Full Stack Developer
+- 📓 Formado no Bootcamp da Labenu no curso de desenvolvimento Full Stack Web Developer e atualmente estou estudando pelo bootcamp Santander
   
 - 🖥️ Trabalho como Backoffice
   

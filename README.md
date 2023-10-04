@@ -17,7 +17,8 @@
 <h2>Principais Linguagens</h2>
   
 <div style="display: inline_block"><br>
-<img align="center" alt="Bruno-Git" height="30" width="70"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Bruno-GitHub" height="30" width="70"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Bruno-Git" height="30" width="70"src="https://git-scm.com/images/logos/2color-lightbg@2x.png">
 <img align="center" alt="Bruno-Vs" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,6 +28,8 @@
 <img align="center" alt="Bruno-React-Router" height="30" width="110" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img align="center" alt="Bruno-nodejs" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Bruno-Angular" height="30" width="40" src="https://www.codeinwp.com/wp-content/uploads/2019/01/angular-logo.png">
+<img align="center" alt="Bruno-Java" height="30" width="40" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png">
 </div>
   
 <div> 

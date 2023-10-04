@@ -1,4 +1,4 @@
-<h1>Olá, sejam todo(a)s bem vindos ao meu perfil do Github!</h1>
+<h1>Bem vindos ao meu perfil do Github!</h1>
 
 <h2>Bruno Macena</h2>
 

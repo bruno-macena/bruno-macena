@@ -1,6 +1,6 @@
-<h1>Bem vindos ao meu perfil do Github!</h1>
+# Bem vindos ao meu perfil do Github!
 
-<h2>Bruno Macena</h2>
+## Bruno Macena
 
 <div>
   

@@ -4,11 +4,11 @@
 
 <div>
   
-- 📓 Formado no Bootcamp da Labenu no curso de desenvolvimento Full Stack Web Developer e atualmente estou estudando pelo bootcamp Santander
+- 📓 Formado no Bootcamp da Labenu no curso de desenvolvimento Full Stack Web Developer
   
 - 🖥️ Trabalho como Backoffice
   
-- 📖 Atualmente estou estudando Angular + Java (Full Stack)
+- 📖 Atualmente estou estudando Angular + Java (Full Stack) (Plataforma DIO)
   
 - 📝 Pronomes: Ele / Dele
   
